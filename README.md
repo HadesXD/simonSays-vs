@@ -4,6 +4,6 @@ The Simon Says game, where you pick the right series of colors to gain a high sc
 original: https://github.com/SloDS/SimonSays-arduino <br/>
 
 <b>Used:</b>
-- language: C#,  SQL (SQLite)
+- language: C#
 - framework: .NET
 - IDE: Visual Studio 2017
