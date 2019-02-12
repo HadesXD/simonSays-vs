@@ -1,0 +1,50 @@
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Simon\Simon\bin\Debug\Simon.exe.config
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Simon\Simon\bin\Debug\Simon.exe
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Simon\Simon\bin\Debug\Simon.pdb
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Simon\Simon\bin\Debug\EntityFramework.dll
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Simon\Simon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Simon\Simon\bin\Debug\System.Data.SQLite.dll
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Simon\Simon\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Simon\Simon\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Simon\Simon\bin\Debug\EntityFramework.xml
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Simon\Simon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Simon\Simon\bin\Debug\System.Data.SQLite.xml
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Simon\Simon\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Simon\Simon\obj\Debug\Simon.csprojResolveAssemblyReference.cache
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Simon\Simon\obj\Debug\Simon.Properties.Resources.resources
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Simon\Simon\obj\Debug\Simon.Simon.resources
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Simon\Simon\obj\Debug\Simon.csproj.GenerateResource.Cache
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Simon\Simon\obj\Debug\Simon.exe
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Simon\Simon\obj\Debug\Simon.pdb
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Simon\Simon\obj\Debug\Simon.Register.resources
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Simon\Simon\obj\Debug\Simon.Login.resources
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Simon\Simon\obj\Debug\Simon.Home.resources
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Simon\Simon\obj\Debug\Simon.About.resources
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Simon\Simon\obj\Debug\Simon.Help.resources
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Simon\Simon\obj\Debug\Simon.High_Score.resources
+C:\Users\strop\Downloads\Projects\Simon\Simon\bin\Debug\Simon.exe.config
+C:\Users\strop\Downloads\Projects\Simon\Simon\bin\Debug\Simon.exe
+C:\Users\strop\Downloads\Projects\Simon\Simon\bin\Debug\Simon.pdb
+C:\Users\strop\Downloads\Projects\Simon\Simon\bin\Debug\EntityFramework.dll
+C:\Users\strop\Downloads\Projects\Simon\Simon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\strop\Downloads\Projects\Simon\Simon\bin\Debug\System.Data.SQLite.dll
+C:\Users\strop\Downloads\Projects\Simon\Simon\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\strop\Downloads\Projects\Simon\Simon\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\strop\Downloads\Projects\Simon\Simon\bin\Debug\EntityFramework.xml
+C:\Users\strop\Downloads\Projects\Simon\Simon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\strop\Downloads\Projects\Simon\Simon\bin\Debug\System.Data.SQLite.xml
+C:\Users\strop\Downloads\Projects\Simon\Simon\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\strop\Downloads\Projects\Simon\Simon\obj\Debug\Simon.csprojAssemblyReference.cache
+C:\Users\strop\Downloads\Projects\Simon\Simon\obj\Debug\Simon.About.resources
+C:\Users\strop\Downloads\Projects\Simon\Simon\obj\Debug\Simon.Help.resources
+C:\Users\strop\Downloads\Projects\Simon\Simon\obj\Debug\Simon.High_Score.resources
+C:\Users\strop\Downloads\Projects\Simon\Simon\obj\Debug\Simon.Home.resources
+C:\Users\strop\Downloads\Projects\Simon\Simon\obj\Debug\Simon.Login.resources
+C:\Users\strop\Downloads\Projects\Simon\Simon\obj\Debug\Simon.Properties.Resources.resources
+C:\Users\strop\Downloads\Projects\Simon\Simon\obj\Debug\Simon.Register.resources
+C:\Users\strop\Downloads\Projects\Simon\Simon\obj\Debug\Simon.Simon.resources
+C:\Users\strop\Downloads\Projects\Simon\Simon\obj\Debug\Simon.csproj.GenerateResource.cache
+C:\Users\strop\Downloads\Projects\Simon\Simon\obj\Debug\Simon.csproj.CoreCompileInputs.cache
+C:\Users\strop\Downloads\Projects\Simon\Simon\obj\Debug\Simon.csproj.CopyComplete
+C:\Users\strop\Downloads\Projects\Simon\Simon\obj\Debug\Simon.exe
+C:\Users\strop\Downloads\Projects\Simon\Simon\obj\Debug\Simon.pdb
