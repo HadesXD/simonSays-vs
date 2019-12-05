@@ -1,4 +1,4 @@
-# Simon Says Game
+# Simon Says Game - Visual Studio 2015
 This is the Visual Studio version of my Arduino project. <br/>
 Simon Says game, where you pick the right series of colors to gain a high score. original: https://github.com/SloDS/SimonSays-arduino <br/>
 
